@@ -20,7 +20,7 @@ Caso esteja interessado em algo que fiz e/ou precisa de alguma ajuda para aprend
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Learnning_Python
+# Learning_Python
 In early July/2020 I started to learn Python from scratch. The reasons were many:
     1) Knowledge: necessary knowledge for tests that contain programming content;
     2) Personal development: maybe I like self development a bit too much; I enjoy seeing how my brain understands the world from different perspectives (it was also the reason        why I learned many languages);

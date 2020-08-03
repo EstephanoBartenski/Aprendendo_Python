@@ -1,0 +1,16 @@
+# conversão de medidas
+n = float(input('Digite uma distância em metros:'))
+a = (n/1000)
+b = (n/100)
+c = (n/10)
+d = (n*10)
+e = (n*100)
+f = (n*1000)
+print('A medida de {} m corresponde a:'.format(n))
+print(a, 'km')
+print(b, 'hm')
+print(c, 'dam')
+print(d, 'dm')
+print(e, 'cm')
+print(f,'mm')
+

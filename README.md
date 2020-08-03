@@ -16,6 +16,11 @@ Enfim, ...
 
 Caso esteja interessado em algo que fiz e/ou precisa de alguma ajuda para aprender Python, basta entrar em contato comigo que ficarei feliz em ajudar!
 
+Ao navegar pelos arquivos:
+teoria__
+exercício__
+projeto__
+
 ~ Estephano Bartenski
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,5 +42,10 @@ Anyway ...
     - files of small projects that I challenged myself to do (idea was to use different things that I learned and combine them together).
 
 If you are interested in something or needs some help to learn Python, just contact me and I will be happy to help!
+
+LAST INFO:
+I'm aware that my notes in the files are a lot of things are in portuguese here, but again, you can contact me if you need help!
+While browsing the files, "teoria__" = theory, "exercício__" = exercise, "projeto__" = project.
+Guess portuguese isn't that difficult to undestand...
 
 ~ Estephano Bartenski
